@@ -21,8 +21,6 @@ An IoT + AI based smart irrigation system that automates watering using real-tim
 3. AI predicts watering need
 4. Pump auto ON/OFF
 
-## 🎥 Demo
-(Add your video link here)
 
 ## 📷 Screenshots
 (Add images here)
